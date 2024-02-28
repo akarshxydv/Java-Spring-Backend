@@ -1,7 +1,7 @@
-package OOPs.classAndObject.abstraction.interfaceClass;
+package OOPs.abstraction.interfaceClass;
 
-import OOPs.classAndObject.abstraction.interfaceClass.engine.Engine;
-import OOPs.classAndObject.abstraction.interfaceClass.media.Media;
+import OOPs.abstraction.interfaceClass.engine.Engine;
+import OOPs.abstraction.interfaceClass.media.Media;
 
 public class Vehicle {
     private Engine engine;

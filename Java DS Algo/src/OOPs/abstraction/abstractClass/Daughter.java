@@ -1,4 +1,4 @@
-package OOPs.classAndObject.abstraction.abstractClass;
+package OOPs.abstraction.abstractClass;
 
 public class Daughter extends Parent{
     public Daughter(int age) {

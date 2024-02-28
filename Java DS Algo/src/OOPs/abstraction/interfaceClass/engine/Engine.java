@@ -1,4 +1,4 @@
-package OOPs.classAndObject.abstraction.interfaceClass.engine;
+package OOPs.abstraction.interfaceClass.engine;
 
 public interface Engine {
     //   you can have static method too but you need to add body to it

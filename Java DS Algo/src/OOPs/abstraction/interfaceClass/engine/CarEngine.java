@@ -1,4 +1,4 @@
-package OOPs.classAndObject.abstraction.interfaceClass.engine;
+package OOPs.abstraction.interfaceClass.engine;
 
 public class CarEngine implements Engine{
     @Override

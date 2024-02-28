@@ -1,7 +1,7 @@
-package OOPs.classAndObject.abstraction.interfaceClass;
+package OOPs.abstraction.interfaceClass;
 
-import OOPs.classAndObject.abstraction.interfaceClass.engine.CarEngine;
-import OOPs.classAndObject.abstraction.interfaceClass.media.Bose;
+import OOPs.abstraction.interfaceClass.engine.CarEngine;
+import OOPs.abstraction.interfaceClass.media.Bose;
 
 public class Main {
     public static void main(String[] args) {

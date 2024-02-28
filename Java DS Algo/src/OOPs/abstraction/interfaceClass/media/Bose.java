@@ -1,4 +1,4 @@
-package OOPs.classAndObject.abstraction.interfaceClass.media;
+package OOPs.abstraction.interfaceClass.media;
 
 public class Bose implements Media{
     @Override

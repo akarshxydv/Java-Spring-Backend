@@ -1,4 +1,4 @@
-package OOPs.classAndObject.abstraction.abstractClass;
+package OOPs.abstraction.abstractClass;
 
 public class Main {
     public static void main(String[] args) {
