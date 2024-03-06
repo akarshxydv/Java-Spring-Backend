@@ -7,7 +7,7 @@ public interface Engine {
     }
 
 
-    void start();
+    String start();
     void stop();
     void accelerate();
 }

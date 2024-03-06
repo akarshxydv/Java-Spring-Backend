@@ -8,5 +8,8 @@ public class Main {
         Vehicle veh1=new Vehicle(new CarEngine(),new Bose());
         veh1.getEngine().start();
         veh1.getMedia().start();
+        Vehicle veh2=new Vehicle();
+        veh2.getMedia().start();
+          
     }
 }

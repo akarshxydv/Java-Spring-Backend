@@ -3,8 +3,9 @@ package OOPs.abstraction.interfaceClass.engine;
 public class TractorEngine implements Engine{
 
     @Override
-    public void start() {
-        System.out.println("Tractor Engine Started");
+    public String start() {
+
+        return "Tractor Engine started";
     }
 
     @Override
