@@ -12,7 +12,7 @@ public class Main {
         Person person = context.getBean(Person.class);
         System.out.println(person.getName());
         person.getVehicle().getVs().playMusic();
-        person.getVehicle().getVs().aboutTyre();
+        System.out.println(person.getVehicle().getVs().getTyre().tyreBrand());
 
 
     }
