@@ -12,3 +12,4 @@ public class JBLSpeaker implements Speakers {
         return "Playing the song"+" "+song.getSongName() +" "+"and sung by"+song.getArtistName()+" playing in JBL Speaker";
     }
 }
+

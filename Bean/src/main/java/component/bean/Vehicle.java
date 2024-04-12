@@ -9,6 +9,10 @@ import javax.annotation.PreDestroy;
 public class Vehicle {
     private String name;
 
+    Vehicle(){
+        System.out.println("Bean has been created "+name);
+    }
+
     public String getName() {
         return name;
     }

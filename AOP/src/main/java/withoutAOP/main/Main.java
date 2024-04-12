@@ -17,6 +17,10 @@ public class Main {
         String vehicleMoving=vehSer.moveVehicle(vehicleStarted);
         String vehicleSong=vehSer.playMusic(vehicleStarted,s1);
         String vehiclebreak=vehSer.applyBrake(vehicleStarted);
+        System.out.println(vehSer.getSpeakers().makeSound(s1));
+
+
+
 
     }
 }

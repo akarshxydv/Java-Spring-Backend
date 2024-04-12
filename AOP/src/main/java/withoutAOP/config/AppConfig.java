@@ -7,3 +7,4 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = {"withoutAOP.beans","withoutAOP.implementation"})
 public class AppConfig {
 }
+
